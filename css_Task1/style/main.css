@@ -13,6 +13,7 @@ header.main_style {
     position: sticky;
     /* border: 2px solid red; */
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
